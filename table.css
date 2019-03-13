@@ -1,0 +1,18 @@
+/*
+* Krissy Kanu
+* Due Date
+* Table */
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+
+}
+
+table, td, th { border: 1px solid yellow; }
