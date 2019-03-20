@@ -15,4 +15,10 @@ body {
 
 }
 
-table, td, th { border: 1px solid yellow; }
+table, td, th { border: 1px solid blue; }
+
+table { border-collapse: collapse; }
+
+thead { background-color: bisque; }
+
+tfoot { background-color: cornflowerblue; }
